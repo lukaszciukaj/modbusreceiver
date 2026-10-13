@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **This repository has moved and is archived.** The Modbus receiver is now maintained by the community in
+> [otel-industrial/otel-industrial-resources](https://github.com/otel-industrial/otel-industrial-resources/tree/main/otel-industrial-collector/receiver/modbusreceiver).
+> Please open issues and pull requests there.
+>
+> New module path (first release [`v0.0.1`](https://github.com/otel-industrial/otel-industrial-resources/releases/tag/otel-industrial-collector%2Freceiver%2Fmodbusreceiver%2Fv0.0.1)):
+> `github.com/otel-industrial/otel-industrial-resources/otel-industrial-collector/receiver/modbusreceiver`
+
 # modbusreceiver
 
 [![CI](https://github.com/lukaszciukaj/modbusreceiver/actions/workflows/ci.yaml/badge.svg)](https://github.com/lukaszciukaj/modbusreceiver/actions/workflows/ci.yaml)
